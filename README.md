@@ -1,8 +1,8 @@
 # Taller 4
 
--   Joshua Daniel Menendez Farias
--   Maria Celeste Gallardo Moreno
--   Jesua Villacis
+- Joshua Daniel Menendez Farias
+- Maria Celeste Gallardo Moreno
+- Jesua Villacis
 
 ## Animacion splines cubicos
 
